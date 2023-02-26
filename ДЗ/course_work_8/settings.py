@@ -1,0 +1,1 @@
+MY_PATH = "https://www.jsonkeeper.com/b/4XSM"
