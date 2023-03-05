@@ -1,12 +1,12 @@
 class BasicWord:
-    def __init__(self, current_word, valid_words):
+    def __init__(self, current_word: str, valid_words: list):
         """Исходное слово, Список составленный слов из исходного"""
         self.current_word = current_word
         self.valid_words = valid_words
 
     def word_check(self, user_answer) -> bool:
         """проверку введенного слова в списке допустимых подслов (вернет bool)"""
-        if user_answer is self.valid_words:
+        if user_answer in self.valid_words:
             return True
         return False
 
@@ -15,11 +15,11 @@ class BasicWord:
         return len(self.valid_words)
 
     def __repr__(self):
-        return self.valid_words
+        return f"{self.current_word}, {self.valid_words}"
 
 
 class Player:
-    def __init__(self, user_name):
+    def __init__(self, user_name: str):
         """Имя пользователя , Использованые слова пользователя"""
         self.user_name = user_name
         self.used_words = []
@@ -32,9 +32,9 @@ class Player:
         """добавление слова в использованные слова (ничего не возвращает)"""
         self.used_words.append(user_word)
 
-    def check_used_words(self, user_word) -> bool:
+    def check_used_words(self, user_w) -> bool:
         """проверка использования данного слова до этого (возвращает bool)"""
-        if user_word is self.used_words:
+        if user_w in self.used_words:
             return True
         return False
 
