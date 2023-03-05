@@ -1,0 +1,17 @@
+[
+	{
+		"pk": 1,
+		"title": "backend",
+		"skills": ["Python", "Linux", "Docker", "SQL", "Flask"]
+  },
+	{
+		"pk": 2,
+		"title": "frontend",
+		"skills": ["HTML", "CSS", "React", "JavaScript"]
+  },
+	{
+		"pk": 3,
+		"title": "testing",
+		"skills": ["Windows", "MacOS", "SQL", "Jira"]
+  }
+]
