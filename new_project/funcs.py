@@ -5,7 +5,7 @@ def calculator(a, b):
 calculator(5, 5)
 
 
-def calculator(a, b):
+def calculator_(a, b):
     return a - b
 
 
