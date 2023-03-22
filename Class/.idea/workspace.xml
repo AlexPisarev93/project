@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9137c8cb-7fd6-4015-bb65-f72c4323e24c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/classmetod_staticmetod.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inkapsulaciya.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maigic_metod.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sum_score_class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/word.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Остальное/sound.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/class_s.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/class_s.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/question.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/question.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2NI42wcxb0X3nk8SFt0FsdT6Yrw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Py_projects",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9137c8cb-7fd6-4015-bb65-f72c4323e24c" name="Changes" comment="" />
+      <created>1679338058916</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679338058916</updated>
+      <workItem from="1679338060042" duration="16000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
