@@ -8,6 +8,15 @@
 # curl -sSL https://install.python-poetry.org | python3 -
 # export PATH="$HOME/.local/bin:$PATH"
 
+# poetry init
+#  — для инициализации виртуального окружения,
+#
+# poetry new project_name
+#  — для создания нового пакета с исходной структурой,
+#
+# poetry add package_name
+#  — для добавления зависимости.
+
 # poetry env use python3.8
 #  — создать виртуальное окружение, указав версию интерпретатора.
 
